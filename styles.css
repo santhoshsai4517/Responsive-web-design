@@ -1,0 +1,14 @@
+/** @format */
+
+html {
+	font-size: 14px;
+}
+
+.header {
+	height: 1024px;
+	background-image: url('background.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	/* back */
+}
